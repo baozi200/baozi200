@@ -1,5 +1,5 @@
-- ❣️ Hi, I’m @baozi200, I make random things sometimes
-- 🌱 I’m currently learning python and SQL
+- Hi I just host random code on here
+- 🌱 I’m currently learning python and SQL 
 - 📫 mayaw7879@icloud.com
 
 <!---
